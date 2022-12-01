@@ -1,0 +1,53 @@
+.justificado{
+    text-align: justify;
+}
+
+.separar{
+    margin-top: 15px;
+}
+
+.estilo{
+   width: 50%; 
+   margin: 0 auto;
+   text-align: center;
+   padding: 15px;
+}
+
+.btn-color{
+    background-color: #66428a;
+    border-color: #66428a;
+    border-radius: 15px;
+    color: white;
+}
+
+.btn-primary:hover{
+    background-color: white;
+    color: #66428a;
+    border-color: white;
+}
+
+.h1{
+    text-align: center;
+    align-self: center;
+}
+
+.title{
+
+    text-align: center;
+    font-family: spartan;
+    
+}
+
+.body{
+
+    text-align: center;
+    font-family: spartan;
+    
+}
+
+.borde{
+
+    width: 50%;
+    height: 50%;
+    margin: auto;
+}
